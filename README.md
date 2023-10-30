@@ -1,1 +1,1 @@
-# agroSiteProject
+-- npm run dev (arquivo svelte)
