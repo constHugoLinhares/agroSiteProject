@@ -1,10 +1,9 @@
 <script>
 	export let name;
+	export let connection;
 	
-	for(let i =0; i <10; i++) {
-		console.log(i)
-	}
-
+	connection
+	console.log('cewrto')
 
 </script>
 
